@@ -465,16 +465,16 @@ public class CameraSource {
         int rotation = windowManager.getDefaultDisplay().getRotation();
         switch (rotation) {
             case Surface.ROTATION_0:
-                degrees = 90;
+                degrees = 0;
                 break;
             case Surface.ROTATION_90:
-                degrees = 180;
+                degrees = 90;
                 break;
             case Surface.ROTATION_180:
-                degrees = 270;
+                degrees = 180;
                 break;
             case Surface.ROTATION_270:
-                degrees = 0;
+                degrees = 270;
                 break;
             default:
                 Log.e(TAG, "Bad rotation value: " + rotation);

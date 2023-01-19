@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         findViewById<Button>(R.id.button_start).setOnClickListener {
-            var intent = Intent(this@MainActivity, PoseDetectionActivity::class.java)
+            var intent = Intent(this@MainActivity, OptionActivity::class.java)
             startActivity(intent)
         }
     }

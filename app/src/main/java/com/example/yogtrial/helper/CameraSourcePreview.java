@@ -118,7 +118,7 @@ public class CameraSourcePreview extends ViewGroup {
             }
         }
 
-        // Swap width and height sizes when in portrait, since it will be rotated 90 degrees
+         //Swap width and height sizes when in portrait, since it will be rotated 90 degrees
         if (isPortraitMode()) {
             int tmp = width;
             width = height;
@@ -152,6 +152,6 @@ public class CameraSourcePreview extends ViewGroup {
         }
 
         Log.d(TAG, "isPortraitMode returning false by default");
-        return false;
+        return true;
     }
 }
