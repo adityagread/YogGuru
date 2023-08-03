@@ -9,13 +9,13 @@ Some Application Screenshot
 ![WhatsApp Image 2023-01-19 at 4 45 22 PM (2)](https://github.com/adityagread/YogGuru/assets/62156095/d9460280-e6bc-4388-b635-92ae0e9df4c3)
 
 
+![WhatsApp Image 2023-06-19 at 1 03 51 AM (1)](https://github.com/adityagread/YogGuru/assets/62156095/dd94500d-8e49-4dcb-a9cd-30e2c4c7e061)
+
+
 ![WhatsApp Image 2023-06-19 at 1 03 50 AM (1)](https://github.com/adityagread/YogGuru/assets/62156095/4c26de54-67b7-4f4a-b8de-54dc5c1775dc)
 
 
 ![WhatsApp Image 2023-06-19 at 1 03 51 AM](https://github.com/adityagread/YogGuru/assets/62156095/733992cf-4389-4252-ba33-e550918dee35)
-
-
-![WhatsApp Image 2023-06-19 at 1 03 51 AM (1)](https://github.com/adityagread/YogGuru/assets/62156095/dd94500d-8e49-4dcb-a9cd-30e2c4c7e061)
 
 
 ![WhatsApp Image 2023-01-19 at 4 45 21 PM (1)](https://github.com/adityagread/YogGuru/assets/62156095/1e590bba-24ae-4db3-b97a-583a8878c56e)
